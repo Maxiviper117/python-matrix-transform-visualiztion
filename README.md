@@ -1,4 +1,4 @@
-### README for 3D Transformation Visualization
+## 3D Transformation Visualization
 
 #### Description
 This Python script provides an interactive visualization tool for exploring 3D transformations including rotations and translations. It is designed to be used within a Jupyter Notebook environment, which supports interactive widgets and inline plotting. The script uses `matplotlib` for 3D plotting, `numpy` for matrix operations, and `ipywidgets` for interactive sliders.
