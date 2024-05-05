@@ -32,3 +32,4 @@ To use this tool, paste the code into a Jupyter Notebook cell and run it. The in
 - This script is intended for educational purposes to assist in visualizing and understanding 3D transformations.
 - Ensure that the Jupyter Notebook interface is compatible with interactive widgets for this script to function correctly.
 
+![3D plot of two spheres with rotation and translation controls, displaying a transformation matrix.](/assets/3dgraph.png)
